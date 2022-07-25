@@ -55,11 +55,3 @@ while count <= 9:
            (arr[2][0] == 'O' and arr[1][1] == 'O' and arr[0][2] == 'O')):
               print('Победили нолики')
               break 
-
-
-
-           
-           
-           
-           
-           
